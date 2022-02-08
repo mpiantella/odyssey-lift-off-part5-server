@@ -28,3 +28,8 @@ git checkout final
 ## Getting Help
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+
+
+APOLLO_KEY=service:odyssey-certification-apollo-e0xu9:eGPoLXXGNdzHXFtcVrfYbw
+APOLLO_GRAPH_REF=odyssey-certification-apollo-e0xu9@current
+APOLLO_SCHEMA_REPORTING=true
